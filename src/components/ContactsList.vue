@@ -108,6 +108,7 @@ export default {
 		Merging,
 		NcLoadingIcon,
 		ContactsListItem,
+		NcTextField,
 	},
 
 	mixins: [
